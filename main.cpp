@@ -3,7 +3,7 @@
 #include<string.h>
 
 #include "Module1.h"
-#include "module2.h"
+#include "Module2.h"
 using namespace std;
 
 
