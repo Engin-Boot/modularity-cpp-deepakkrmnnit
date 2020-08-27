@@ -1,6 +1,6 @@
 #pragma once
-#include "module4.h"
-#include "module3.h"
+#include "Module4.h"
+#include "Module3.h"
 
 #ifndef MODULE2_H
 #define MODULE2_H
